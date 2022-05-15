@@ -7,4 +7,7 @@ left:
     href: index.html
   - text: About me
     href: README.html
+ output:
+  html_document:
+    theme: yeti
     
