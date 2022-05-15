@@ -1,13 +1,22 @@
-name: my cats
-output_dir : docs
+name: my-website
+output_dir: docs
 navbar:
-  title: my cats
-left:
+  title: My Website
+  left:
   - text: Home
     href: index.html
-  - text: About me
-    href: README.html
- output:
+  - text: About
+    href: about.html
+  - text: Readings
+    menu:
+    - text: Module 1
+      href: readings-module1.html
+    - text: Module 2
+      href: readings-module2.html
+    - text: Module 3
+      href: readings-module3.html
+    - text: Module 4
+      href: readings-module4.html
+output:
   html_document:
     theme: yeti
-    
