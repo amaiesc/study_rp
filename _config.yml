@@ -1,1 +1,6 @@
-
+left :
+  - text: Home
+    href: index.html
+  - text: About me
+    href: README.html
+    
