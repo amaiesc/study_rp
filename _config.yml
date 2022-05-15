@@ -1,4 +1,8 @@
-left :
+name: my cats
+output_dir : docs
+navbar:
+  title: my cats
+left:
   - text: Home
     href: index.html
   - text: About me
